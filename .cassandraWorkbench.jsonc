@@ -1,0 +1,12 @@
+[
+    //PasswordAuthenticator
+    {
+        "name": "Cluster PasswordAuthenticator",
+        "contactPoints": ["127.0.0.1"],
+        "authProvider": {
+            "class": "PasswordAuthenticator",
+            "username": "cassandra",
+            "password": "3utkZEW789dv"
+        }
+    }
+]

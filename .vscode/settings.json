@@ -1,0 +1,13 @@
+{
+  "cassandraWorkbench.activeClusterName": "Cluster PasswordAuthenticator",
+  "cassandraWorkbench.activeKeyspace": [
+    [
+      "Cluster AllowAllAuthenticator",
+      null
+    ],
+    [
+      "Cluster PasswordAuthenticator",
+      "system"
+    ]
+  ]
+}
